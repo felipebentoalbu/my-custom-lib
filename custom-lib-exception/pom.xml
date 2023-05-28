@@ -7,11 +7,10 @@
     <parent>
         <artifactId>my-custom-lib</artifactId>
         <groupId>br.com</groupId>
-        <version>1.0.0</version>
+        <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>br-com</groupId>
     <artifactId>custom-lib-exception</artifactId>
-    <version>1.0.0</version>
-
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
 </project>

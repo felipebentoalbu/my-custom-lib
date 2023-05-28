@@ -7,18 +7,18 @@
     <groupId>br.com</groupId>
     <artifactId>my-custom-lib</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>my-custom-lib</name>
     <description>WIP</description>
 
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
         <junit.version>4.11</junit.version>
         <java.version>17</java.version>
         <lombok.version>1.18.20</lombok.version>
         <junit-jupiter.version>5.7.2</junit-jupiter.version>
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
     <modules>
