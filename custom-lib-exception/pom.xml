@@ -10,7 +10,7 @@
         <version>1.0.0</version>
     </parent>
 
-    <groupId>org.example</groupId>
+    <groupId>br-com</groupId>
     <artifactId>custom-lib-exception</artifactId>
     <version>1.0.0</version>
 
