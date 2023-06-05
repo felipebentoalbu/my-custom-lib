@@ -1,4 +1,4 @@
-package br.com.security;
+package br.com.customlib.security;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;

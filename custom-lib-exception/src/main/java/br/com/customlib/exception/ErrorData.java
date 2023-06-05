@@ -1,4 +1,4 @@
-package br.com.exception;
+package br.com.customlib.exception;
 
 public interface ErrorData {
 

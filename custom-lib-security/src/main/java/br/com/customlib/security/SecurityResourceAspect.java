@@ -1,4 +1,4 @@
-package br.com.security;
+package br.com.customlib.security;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.reflect.MethodSignature;

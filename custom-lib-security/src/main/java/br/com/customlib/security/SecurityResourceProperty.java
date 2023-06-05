@@ -1,4 +1,4 @@
-package br.com.security;
+package br.com.customlib.security;
 
 public abstract class SecurityResourceProperty {
 

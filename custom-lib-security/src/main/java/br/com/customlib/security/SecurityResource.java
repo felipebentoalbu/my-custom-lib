@@ -1,4 +1,4 @@
-package br.com.security;
+package br.com.customlib.security;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
